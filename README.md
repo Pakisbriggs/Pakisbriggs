@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pakisbriggs
 - 👀 I’m interested in projects that solve real problems for communities in Africa
-- 🌱 I’m currently learning python Django and related packages
-- 💞️ I’m looking to collaborate on the Mystova project
+- 🌱 I’m currently learning python and related packages
+- 💞️ I’m looking to collaborate on the MFB project
 - 📫 How to reach me ... Same username on all socialmedia handles.
 
 <!---
